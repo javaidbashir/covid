@@ -1,7 +1,5 @@
 # covid
-#coronavirusindia
-#covidindia
-#covid19
+
 coronavirus dashboard for fresh cases, active cases , detahs etc reported from the official and some unofficial groups of covid19.
 
 If you wanna contribute to the project or if you have a question about the project, feel free to write an issue on GitHub. 
